@@ -1,1 +1,1 @@
-# Recommender-system---find-similar-taste-of-whiskeys
+# Recommender system - Find similar taste of whiskeys
